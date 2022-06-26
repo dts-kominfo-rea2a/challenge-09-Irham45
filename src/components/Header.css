@@ -1,0 +1,15 @@
+.header {
+    border-radius: 10px;
+    background-color: bisque;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 35%;
+    border-radius: 10px;
+    background-color: bisque;
+    margin: 20px 415px;
+    text-align: center;
+}
+.dot {
+    font-size: 70px;
+    color: #F97373;
+}
+
